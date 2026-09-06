@@ -1,0 +1,15 @@
+{
+  "name": "genpark-plan-repair-dynamic-re-anchoring-skill",
+  "version": "1.0.0",
+  "description": "Dynamic plan repair and subgoal re-anchoring engine preserving unaffected downstream steps.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "plan-repair",
+    "dynamic-replanning",
+    "re-anchoring",
+    "fault-tolerance",
+    "workflow-recovery"
+  ]
+}
